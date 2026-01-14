@@ -1,16 +1,5 @@
 {
   "dependencies": {
-    "com.henrylab.vrexplorer": {
-      "version": "https://github.com/TsingPig/VRExplorer_Release.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.test-framework": "1.0.16",
-        "com.unity.settings-manager": "1.0.1",
-        "com.unity.xr.interaction.toolkit": "2.0.4"
-      },
-      "hash": "93666e414fcc2fba970cfcda798350eb8be6a546"
-    },
     "com.unity.burst": {
       "version": "1.8.25",
       "depth": 2,
